@@ -4,7 +4,7 @@ A Retrieval-Augmented Generation (RAG) chat assistant that answers student quest
 **academics, fee structure, facilities & amenities, hostels, clubs, fests, and the history**
 of IIT Kanpur — grounded in real, cited content scraped from official institute sources.
 
-> **Status: 🚧 In active development.** This repository currently contains the data ingestion
+> **Status:  In active development.** This repository currently contains the data ingestion
 > pipeline and a working backend retrieval/query skeleton. Frontend and full production
 > deployment are in progress. See [Roadmap](#roadmap) below.
 
